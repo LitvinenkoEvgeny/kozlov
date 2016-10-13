@@ -2396,6 +2396,7 @@ $(function(){
 				$("section:lt(7)").css('top','-100vh');
 				$("section.contacts").addClass('animated').css('top','0');;
 				$("aside").removeClass('hidden').addClass('show-animated').removeClass('show-logo').removeClass('compact').addClass('hide-logo');
+                $("nav").addClass('contacts');
 			break;
 		}
 	}

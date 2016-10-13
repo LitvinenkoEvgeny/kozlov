@@ -2738,6 +2738,7 @@ section.contacts {
     float: left; }
   /* line 2441, pages.scss */
   section.contacts .social {
+    opacity: 0;
     width: 50vw;
     float: left;
     position: relative; }
