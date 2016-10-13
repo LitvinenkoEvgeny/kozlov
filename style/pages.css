@@ -3486,6 +3486,7 @@ section.contacts {
       top: 32.4vh; }
   /* line 2951, pages.scss */
   aside .for-agency {
+    opacity: 0;
     bottom: 98px;
     font-size: 14px; }
     /* line 2954, pages.scss */
@@ -3710,6 +3711,7 @@ section.contacts {
       top: 36.9vh; }
   /* line 3168, pages.scss */
   aside .for-agency {
+    opacity: 0;
     bottom: 93px;
     font-size: 16px; }
     /* line 3171, pages.scss */
@@ -3888,6 +3890,7 @@ section.contacts {
       top: 30.9vh; }
   /* line 3344, pages.scss */
   aside .for-agency {
+    opacity: 0;
     bottom: 101px;
     font-size: 16px; }
     /* line 3347, pages.scss */
@@ -3899,6 +3902,7 @@ section.contacts {
     bottom: 81px; }
   /* line 3355, pages.scss */
   aside #anmedio {
+    opacity: 0;
     bottom: 26px;
     font-size: 12px; }
 
