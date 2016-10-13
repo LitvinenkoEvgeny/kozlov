@@ -1999,8 +1999,8 @@ section.reviews {
   section.reviews .about {
     position: absolute;
     height: 53.3%;
-    background: url(../reviews/review-back.jpg) no-repeat top right;
-    background-size: cover;
+    background: url(../reviews/review-back5.jpg) no-repeat top right;
+    background-position: -110px -40px;
     right: 18vw;
     bottom: 0;
     width: 36vw;
@@ -3864,6 +3864,8 @@ section.contacts {
       border-radius: 100% 80% 100% 100%;
       top: 15%; }
   /* line 3333, pages.scss */
+  aside nav {
+    margin: 45.5vh 0 0 0; }
   aside nav {
     margin: 45.5vh 0 0 0; }
     /* line 3335, pages.scss */
