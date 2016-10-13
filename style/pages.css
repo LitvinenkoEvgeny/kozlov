@@ -444,6 +444,7 @@ aside {
             animation: nav-show-menu-link .3s .2s both ease-out; }
   /* line 384, pages.scss */
   aside.show-logo .logo {
+    margin-top: 90px;
     display: block; }
     /* line 386, pages.scss */
     aside.show-logo .logo img {
@@ -3863,7 +3864,7 @@ section.contacts {
       top: 15%; }
   /* line 3333, pages.scss */
   aside nav {
-    margin: 35.5vh 0 0 0; }
+    margin: 45.5vh 0 0 0; }
     /* line 3335, pages.scss */
     aside nav a {
       font-size: 21px; }
