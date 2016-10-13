@@ -2813,7 +2813,7 @@ $(function(){
 	$(".get-photos").click(function(){
 		console.log("Get photos");
 		$.ajax({
-		    url: "/album/"+$(this).attr('rel'),
+		    url: "./album/"+$(this).attr('rel'),
 		    cache: true,
 		    success: function(html){
 		    	$(".close-album").add("#show-album-grad").removeClass('hidden');
